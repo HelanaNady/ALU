@@ -1,5 +1,5 @@
 # ALU - Arthmetic Logic Unit
-A project for logic design course - freshman year 
+A project for Logic Design course - Freshman year.
 
 The arthmetic unit designed takes two 3-bit signed numbers as input and perform arthmetic operations on them.
 
