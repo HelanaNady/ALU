@@ -3,7 +3,9 @@ A project for Logic Design course - Freshman year.
 
 The arthmetic unit designed takes two 3-bit signed numbers as input and perform arthmetic operations on them.
 
-The ALU supports the following operations:
+![image](https://github.com/HelanaNady/ALU/assets/84867341/7bc7a6e7-2ece-4578-a4b1-2e98e5c36e81)
+
+**The ALU supports the following operations:**
 
 - Addition: Performs binary addition on the input numbers.
 - Subtraction: Utilizes two's complement representation for subtraction.
