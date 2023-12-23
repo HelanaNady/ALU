@@ -1,3 +1,4 @@
+![ALU](https://github.com/habibayman/ALU/assets/137416623/c69dcd71-e5d6-4405-a36b-7ad64640035c)
 # ALU - Arthmetic Logic Unit
 A project for Logic Design course - Freshman year.
 
